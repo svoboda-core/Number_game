@@ -1,0 +1,45 @@
+html,
+body{
+	height: 100%;
+	background-color: #333;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	color: #fff;
+	font-size: 16px;
+	max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+}
+.tatel{
+	font-size: 25px;
+	text-transform: uppercase;
+	color: aqua;
+}
+.lowOrHi{
+	display: inline;
+}
+.lowOrHi2{
+	display: inline;
+	color: red;
+}
+.BigOrHi{
+	display: inline;
+	color: yellow;
+}
+.lowOrHi3{
+	display: inline;
+}
+.form{
+	margin: 0 auto;
+	
+}
+label{
+	padding-right: 15px;
+}
+.guessSubmit{
+	margin-left: 15px;
+}
+button{
+	background-color: aqua;
+	font-size: 20px;
+	border-radius: 15px;
+}
